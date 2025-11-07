@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: home
 title: Home
 landing-title: 'Emotions in human-machine conversations. A communicative approach.'
 description: 'description'
