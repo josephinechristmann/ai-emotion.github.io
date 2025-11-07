@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Emotions in human-machine conversations. A communicative approach.'
-description: 'description'
+landing-title: 'Emotions in human-machine conversations.'
+description: 'A communicative approach to the question of how emotions are expressed in conversations with AI chatbots.'
 image: null
 author: null
 show_tile: false
