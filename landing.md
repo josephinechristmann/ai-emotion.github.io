@@ -2,7 +2,7 @@
 layout: landing
 title: Emotions in human-machine conversations. A communicative approach.
 description: 'A project about humans, machines, emotions and what that has to do with communication.'
-image: assets/images/1956,Bondofunion2.jpg
+image: assets/images/Bondofunion2.jpg
 nav-menu: true
 show_tile: true                    # sorgt dafür, dass sie als Tile erscheint
 tile_featured: true                # markiert sie als großes, erstes Tile
