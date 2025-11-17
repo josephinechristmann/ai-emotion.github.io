@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
+title: The Theory
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/Rind.jpg
 show_tile: true
 order: 3
 nav-menu: true
