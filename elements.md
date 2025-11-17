@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Elements
+show_tile: true
+order: 2
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
