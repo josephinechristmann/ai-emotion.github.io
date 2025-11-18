@@ -4,7 +4,7 @@ subtitle: A PHD thesis
 email: josephine.christmann@univ-montp3.fr
 description: A communicative approach to the question of how emotions are expressed in conversations with AI chatbots.
 baseurl: "/ai-emotion.github.io" # the subpath of your site, e.g. /blog
-url: "https://justjosephine.github.io" # the base hostname & protocol for your site
+url: "https://josephinechristmann.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
