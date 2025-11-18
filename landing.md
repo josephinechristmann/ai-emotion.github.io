@@ -31,7 +31,7 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The theory</h3>
+					<h2>The research questions</h2>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -47,7 +47,7 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The methodology</h3>
+					<h2>The theory</h2>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -63,7 +63,7 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h2>The methodology</h2>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -77,10 +77,7 @@ order: 1                           # Reihenfolge auf der Startseite
 <!-- Three -->
 <section id="three">
 	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>This project is financed by the Region Occitanie and is a collaboration between the LERASS, a social sciences lab at the Université Paul Valéry in Montpellier, and the LIRMM, a lab for informatics and robotics and comprises two PhD projects, one in communication science, that will analyze the expression of emotions in the conversations with the chatbots, and one in informatics that will focus on the emotion recognition through artificial intelligence.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
