@@ -26,9 +26,13 @@ nav-menu: true
 	<ul class="actions vertical">
 		<li><a href="#" class="button fit">Learn more</a></li>
 	</ul>
+	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>The Sample</h3>
 		<p>The sample will cover as broad a population as possible, as we want to identify differences in various age and social groups.</p>
+		<ul class="actions vertical">
+		<li><a href="#" class="button fit">Learn more</a></li>
+		</ul>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
