@@ -18,29 +18,28 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>The idea of our methodology is to gain a deeper understanding of why people use AI chatbots and how they perceive them as well as to gain a deeper understanding about how people express emotions in these conversations with AI chatbots. To this end, we use a mixed-method approach, in which we ask participants to converse with an AI chatbot and then fill out a questionnaire. The connection of these two data sources will show if the motivations for use and the perception of AI chatbots have an influence on how people express emotions.p</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>The Research Protocol</h3>
+		<p>The participation in our study is possible via a link, so it can be done from the confort of the participants home. This was important, as emotions are a sensitive and private matter and so we wanted the participants to feel as comfortable as possible. Participants will first be asked to converse with our chatbot and then to fill out a questionnaire. This is done so the questions in the questionnaire will not influence the participants emotional expression. A challange with this protocol is, that we want to capture authentic emotions. The idea was therefore to make the participants talk about a personal emotional episode. A key question that was discussed during the creation of the protocol is how to start this conversation in order to guarantee that the participants feel comfortable sharing their emotions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>The Sample</h3>
+		<p>The sample will cover as broad a population as possible, as we want to identify differences in various age and social groups.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>The Chatbot</h3>
+		<p>We are developping our own chatbot to collect the data.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>The Questionnaire</h3>
+		<p>The questionnaire containts three main concepts: the motivations for AI use, the perception of AI agents and the attributed role of AI agents.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>The Dialogue-Analysis Tool</h3>
+		<p>Nothing here yet, come back later.</p>
 	</div>
 </div>
 
