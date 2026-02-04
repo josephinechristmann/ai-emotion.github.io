@@ -22,7 +22,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>The Research Protocol</h3>
-		<p>The participation in our study is possible via a link, so it can be done from the confort of the participants home. This was important, as emotions are a sensitive and private matter and so we wanted the participants to feel as comfortable as possible. Participants will first be asked to converse with our chatbot and then to fill out a questionnaire. This is done so the questions in the questionnaire will not influence the participants emotional expression. A challange with this protocol is, that we want to capture authentic emotions. The idea was therefore to make the participants talk about a personal emotional episode. A key question that was discussed during the creation of the protocol is how to start this conversation in order to guarantee that the participants feel comfortable sharing their emotions.</p>
+		<p>The participation in our study is possible via a link, so it can be done from the confort of the participants home. This was important, as emotions are a sensitive and private matter and so we wanted the participants to feel as comfortable as possible. Participants will first be asked to converse with our chatbot and then to fill out a questionnaire.</p>
 	</div>
 	<div class="6u 12u$(small)">
 	<ul class="actions vertical">
