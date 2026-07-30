@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: The Methodology
 show_tile: true
 order: 2
 image: assets/images/pic01.jpg
