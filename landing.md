@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Emotions in human-machine conversations. A communicative approach.
+title: The Project AI EMOTION
 description: 'A project about humans, machines, emotions and what that has to do with communication.'
 image: assets/images/Bondofunion2.jpg
 nav-menu: true
