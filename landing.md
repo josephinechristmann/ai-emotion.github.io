@@ -66,12 +66,26 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>The methodology</h2>
+					<h2>Who we are</h2>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>We are a team of two PhD students and their respective supervisors from the LERASS at the Université de Montpellier Paul-Valéry and the LIRMM at the Université de Montpellier.</p>
+      		<div class="team">
+        		<div class="team-row">
+         			<img src="{% link assets/images/Logo Lerass.png %}" alt="LERASS" class="team-logo" />
+          			<ul class="team-names">
+            			<li>Sarah Labelle, Project coordinator</li>
+            			<li>Josephine Christmann, PhD student</li>
+          			</ul>
+        	</div>
+        		<div class="team-row">
+         			<img src="{% link assets/images/Logo Lirrm.png %}" alt="LIRMM" class="team-logo" />
+          			<ul class="team-names">
+            			<li>Konstantin Todorov, Principal investigator</li>
+            			<li>Madalina Croitoru, Investigator</li>
+						<li>Florian Lecourt, PhD student</li>
+          			</ul>
+        </div>
+      </div>
 			</div>
 		</div>
 	</section>
@@ -81,6 +95,11 @@ order: 1                           # Reihenfolge auf der Startseite
 <section id="three">
 	<div class="inner">
 		<p>This project is financed by the Region Occitanie and is a collaboration between the LERASS, a social sciences lab at the Université Paul Valéry in Montpellier, and the LIRMM, a lab for informatics and robotics and comprises two PhD projects, one in communication science, that will analyze the expression of emotions in the conversations with the chatbots, and one in informatics that will focus on the emotion recognition through artificial intelligence.</p>
+				<div class="bottom-images" style="display: flex; align-items: flex-start; gap: 20px; margin: 0 0 20px 0; padding: 0;">
+					<img src="{% link assets/images/Logo Paul Valery.png %}" alt="" style="width: 33%; margin: 0;" />
+					<img src="{% link assets/images/Logo_université_montpellier.png %}" alt="" style="width: 33%; margin: 0;" />
+					<img src="{% link assets/images/Logo Region Occitanie.jpg %}" alt="" style="width: 33%; margin: 0;" />
+				</div>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
