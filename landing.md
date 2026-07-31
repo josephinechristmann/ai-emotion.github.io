@@ -100,9 +100,6 @@ order: 1                           # Reihenfolge auf der Startseite
 					<img src="{% link assets/images/Logo_université_montpellier.png %}" alt="" style="width: 33%; margin: 0;" />
 					<img src="{% link assets/images/Logo Region Occitanie.jpg %}" alt="" style="width: 33%; margin: 0;" />
 				</div>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
 	</div>
 </section>
 
