@@ -31,10 +31,12 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>The research questions</h2>
+					<h2>What we want to do</h2>
 				</header>
-				<p>We are interested in the emotional expression in human-AI conversations, in how people perceive AI chatbots and how these two things are linked. Our research questions are the following:</p>
-				<ul><li>Q1: How do users perceive AI agents?</li><li> Q2: What forms of emotional expression emerge in human-machine interaction?</li><li>Q3: To what extent does the perception of AI agents influence emotional expression?</li></ul>
+				<p>Our goals with this project are twofold: on the one hand we want to better understand the way emotions are expressed in human machine interactions. On the other hand we want to critically examine how emotion recognition models are trained. So our goal is to approach emotions in human machine conversations from both angles, the perspective of the human and the perspective of the conversation</p>
+				<p>For the perspective of the human, we are interested in how exactly emotions are expressed in human-AI conversations, in how people perceive AI chatbots and how these two things are linked. Our research questions are the following:</p>
+				<ul><li>Q1: How do users perceive AI agents?</li><li>Q2: What forms of emotional expression emerge in human-machine interaction?</li><li>Q3: To what extent does the perception of AI agents influence emotional expression?</li></ul>
+				<p>For the perspective of the AI we are interested in how AI systems are trained to recognise emotions and what theoretical understanding of emotions are behind these modesl.</p> 
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -48,7 +50,7 @@ order: 1                           # Reihenfolge auf der Startseite
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>The theory</h2>
+					<h2>Why is this important?</h2>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
